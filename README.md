@@ -4,6 +4,7 @@
 ## Papers
   
   ### 2023
+- AttriCLIP: A Non-Incremental Learner for Incremental Knowledge Learning  (**CVPR23**)[[paper](https://arxiv.org/pdf/2305.11488.pdf)]
 - On the Soft-Subnetwork for Few-Shot Class Incremental Learning (**ICLR23**)[[paper]( https://openreview.net/pdf?id=z57WK5lGeHd)]
 - Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class-Incremental Learning (**ICLR23**)[[paper]( https://openreview.net/pdf?id=y5W8tpojhtJ)]
 - Warping the Space: Weight Space Rotation for Class-Incremental Few-Shot Learning (**ICLR23**)[[paper]( https://openreview.net/pdf?id=kPLzOfPfA2l)]
